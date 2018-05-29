@@ -1,0 +1,11 @@
+name: Mon thème
+type: theme
+description: 'Test de la Drupal console'
+package: Tests
+core: 8.x
+libraries:
+  - mon_theme/global-styling
+  - mon_theme/autrelibrary
+ 
+base theme: zurb_foundation
+
