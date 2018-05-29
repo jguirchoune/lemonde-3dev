@@ -1,0 +1,44 @@
+.region-sidebar-first h2 {
+  	color: orange;
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	border-bottom-color: orange;
+}
+
+.region-header {
+	background: #fff;
+}
+
+.site-branding__name a {
+  	font-size: 2rem;
+  	color: orange;
+}
+
+.page-title {
+	font-size: 2rem;
+  	color: orange;
+  	font-family: Georgia;
+}
+
+.article-teaser-left,
+.article-teaser-right {
+  width: 49%;
+  display: inline-block;
+}
+
+.article-teaser-left img {
+  vertical-align: top;
+}
+
+.form-required:after {
+  content: '(obligatoire)';
+  vertical-align: super;
+  display: inline-block;
+  /* Use a background image to prevent screen readers from announcing the text. */
+  /*background-image: url(../../../../misc/icons/ee0000/required.svg);*/
+  background-repeat: no-repeat;
+  background-size: 6px 6px;
+  width: 6px;
+  height: 6px;
+  margin: 0 0.3em;
+}

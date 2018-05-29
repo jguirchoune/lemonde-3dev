@@ -1,0 +1,25 @@
+features:
+   comment_user_picture: true
+   favicon: true
+   logo: true
+   name: true
+   node_user_picture: true
+settings:
+  lemonde_status_in_reveal: false
+  lemonde_use_respondjs: false
+  lemonde_disable_base_css: false
+  lemonde_disable_base_js: false
+  lemonde_meta_header_grid: true
+  lemonde_top_bar_enable: 0
+  lemonde_top_bar_grid: false
+  lemonde_top_bar_sticky: false
+  lemonde_top_bar_menu_text: 'Menu'
+  lemonde_top_bar_custom_back_text: true
+  lemonde_top_bar_back_text: 'Back'
+  lemonde_top_bar_is_hover: true
+  lemonde_top_bar_search: false
+  lemonde_top_bar_languageswitcher: false
+  lemonde_page_site_name: true
+  lemonde_page_site_logo: true
+  lemonde_page_account_info: true
+langcode: en

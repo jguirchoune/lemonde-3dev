@@ -1,0 +1,8 @@
+{% extends "node--common.html.twig" %}  
+{% set author_display = true %}
+{% block top %}
+    {{ content.field_image }}
+{% endblock %}
+{% block content %}
+    {{ content|without('field_image') }}
+{% endblock %}
