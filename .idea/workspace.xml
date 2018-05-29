@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db1eaf57-b558-47eb-9aff-3fc7d78b874b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.csslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.csslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ht.router.php" beforeDir="false" afterPath="$PROJECT_DIR$/.ht.router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/contrib/crop/.travis-phpcs.sh" beforeDir="false" afterPath="$PROJECT_DIR$/modules/contrib/crop/.travis-phpcs.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/contrib/default_content_deploy" beforeDir="false" afterPath="$PROJECT_DIR$/modules/contrib/default_content_deploy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/contrib/readonlymode" beforeDir="false" afterPath="$PROJECT_DIR$/modules/contrib/readonlymode" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/default.services.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/default.services.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/default/default.settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/default/default.settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/development.services.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sites/development.services.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/example.settings.local.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/example.settings.local.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/example.sites.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/example.sites.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/radix/kits/default/assets/scss/bootswatch/_bootswatch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/radix/kits/default/assets/scss/bootswatch/_bootswatch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/radix/kits/default/assets/scss/bootswatch/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/radix/kits/default/assets/scss/bootswatch/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_drupal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_drupal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_elements.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_init.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_init.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/base/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_aside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/scss/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/color/color.inc" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/color/color.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/color/preview.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/color/preview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/color/preview.es6.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/color/preview.es6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/color/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/color/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/color/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/color/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/config/schema/ive.schema.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/config/schema/ive.schema.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/base/elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/base/elements.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/block.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/book.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/book.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/breadcrumb.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/breadcrumb.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/captions.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/captions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/comments.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/comments.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/contextual.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/contextual.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/demo-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/demo-block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/dropbutton.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/dropbutton.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/featured-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/featured-bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/featured-top.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/featured-top.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/feed-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/feed-icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/field.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/field.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/forum.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/forum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/help.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/help.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/highlighted.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/highlighted.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/image-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/image-button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/item-list.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/item-list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/list-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/list-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/main-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/main-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/messages.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/messages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/node-preview.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/node-preview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/node.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/node.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/page-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/page-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/pager.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/pager.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/panel.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/panel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/password-suggestions.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/password-suggestions.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/primary-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/primary-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/search-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/search-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/search-results.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/search-results.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/secondary-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/secondary-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/shortcut.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/shortcut.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/sidebar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/site-branding.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/site-branding.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/site-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/site-footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/skip-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/skip-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/tablesort-indicator.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/tablesort-indicator.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/text-formatted.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/text-formatted.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/ui-dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/ui-dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/ui.widget.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/ui.widget.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/vertical-tabs.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/vertical-tabs.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/components/views.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/components/views.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/ive.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/ive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/maintenance-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/maintenance-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/css/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/css/print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/images/add.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/images/add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/images/drupal8.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/images/drupal8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/images/required.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/images/required.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/images/tabs-border.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/images/tabs-border.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/ive.breakpoints.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/ive.breakpoints.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/ive.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/ive.info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/ive.layouts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/ive.layouts.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/ive.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/ive.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/ive.theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/ive.theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/js/ive.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/js/ive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/layouts/foursquares/foursquares.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/layouts/foursquares/foursquares.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/layouts/foursquares/layout--foursquares.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/layouts/foursquares/layout--foursquares.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/block--presentationdedrupal8.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/block--presentationdedrupal8.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/block--search-form-block.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/block--search-form-block.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/block--system-branding-block.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/block--system-branding-block.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/block--system-menu-block.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/block--system-menu-block.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/block.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/block.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/comment.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/comment.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/field--node--field-tags.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/field--node--field-tags.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/form--search-block-form.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/form--search-block-form.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/form-element-label.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/form-element-label.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/maintenance-page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/maintenance-page.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/node--article--full.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/node--article--full.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/node--article--teaser.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/node--article--teaser.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/node--article.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/node--article.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/node--common.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/node--common.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/node--header.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/node--header.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/node.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/node.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/page--page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/page--page.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/page-title.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/page-title.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/page.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/region--header.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/region--header.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ive/templates/status-messages.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ive/templates/status-messages.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/.scss-lint.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/.scss-lint.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/STARTER.info.yml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/STARTER.info.yml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/STARTER.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/STARTER.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/STARTER.theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/STARTER.theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/config/install/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/config/install/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/css/STARTER.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/css/STARTER.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/bullets.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/bullets.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/left-arrow-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/left-arrow-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/left-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/left-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/mask-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/mask-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/pause-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/pause-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/right-arrow-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/right-arrow-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/right-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/right-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/rotator-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/rotator-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/timer-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/images/foundation/orbit/timer-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/js/STARTER.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/js/STARTER.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/STARTER.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/STARTER.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/_settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_drupal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_drupal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_elements.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_elements.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_init.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_init.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/base/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_aside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_block.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_menu_block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_menu_block.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_topbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_topbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_views.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/modules/_views.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/states/_collapse.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/states/_collapse.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/theme/_sidebar_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/scss/theme/_sidebar_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/templates/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/templates/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/STARTER/theme-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/STARTER/theme-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-114x114-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-114x114-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-144x144-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-144x144-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-72x72-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-72x72-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/config/install/lemonde.settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/config/install/lemonde.settings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/foundation-flex.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/foundation-flex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/foundation-flex.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/foundation-flex.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/foundation-rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/foundation-rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/foundation-rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/foundation-rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/foundation.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/foundation.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/lemonde.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/lemonde.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/motion-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/motion-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/css/motion-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/css/motion-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/background2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/background2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/default.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/default.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/bullets.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/bullets.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/left-arrow-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/left-arrow-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/left-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/left-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/mask-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/mask-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/pause-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/pause-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/right-arrow-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/right-arrow-small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/right-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/right-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/rotator-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/rotator-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/timer-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/foundation/orbit/timer-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/button-gloss.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/button-gloss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/button-overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/button-overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/custom-form-sprites.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/custom-form-sprites.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/dropdown-button-nub.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/dropdown-button-nub.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/input-bg-outset.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/input-bg-outset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/input-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/input-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/modal-gloss.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/modal-gloss.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/misc/table-sorter.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/misc/table-sorter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/images/screenshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/images/screenshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/inc/form.inc" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/inc/form.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/inc/lemonde.drush.inc" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/inc/lemonde.drush.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/inc/menu.inc" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/inc/menu.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/inc/theme.inc" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/inc/theme.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/alert_close.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/alert_close.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/foundation.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/foundation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/foundation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/foundation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/foundation_init.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/foundation_init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/motion-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/motion-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/motion-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/motion-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/status_in_reveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/status_in_reveal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/js/top_bar_active.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/js/top_bar_active.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_1col/foundation-1col.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_1col/foundation-1col.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_1col/foundation_1col.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_1col/foundation_1col.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col/foundation-2col.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col/foundation-2col.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col/foundation_2col.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col/foundation_2col.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_bricks/foundation-2col-bricks.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_bricks/foundation-2col-bricks.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_bricks/foundation_2col_bricks.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_bricks/foundation_2col_bricks.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_stacked/foundation-2col-stacked.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_stacked/foundation-2col-stacked.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_stacked/foundation_2col_stacked.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_2col_stacked/foundation_2col_stacked.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col/foundation-3col.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col/foundation-3col.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col/foundation_3col.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col/foundation_3col.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col_stacked/foundation-3col-stacked.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col_stacked/foundation-3col-stacked.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col_stacked/foundation_3col_stacked.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_3col_stacked/foundation_3col_stacked.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_4col/foundation-4col.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_4col/foundation-4col.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_4col/foundation_4col.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_4col/foundation_4col.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_6row_combo/foundation-6row-combo.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_6row_combo/foundation-6row-combo.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_6row_combo/foundation_6row_combo.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/layouts/foundation_6row_combo/foundation_6row_combo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/lemonde.info.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/lemonde.info.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/lemonde.layouts.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/lemonde.layouts.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/lemonde.libraries.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/lemonde.libraries.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/lemonde.theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/lemonde.theme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/scss/lemonde.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/scss/lemonde.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/src/Plugin/Layout/FoundationLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/src/Plugin/Layout/FoundationLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/block--off-canvas.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/block--off-canvas.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/block.html - Copie.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/block.html - Copie.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/block.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/block.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/breadcrumb.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/breadcrumb.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/field--taxonomy-term-reference.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/field--taxonomy-term-reference.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/field.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/field.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/form-element-label.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/form-element-label.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/html.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/html.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/menu--main.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/menu--main.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/menu--off-canvas.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/menu--off-canvas.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/node.html - Copie.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/node.html - Copie.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/node.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/node.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/page.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/page.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/pager.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/pager.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/templates/status-messages.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/templates/status-messages.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/lemonde/theme-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/themes/lemonde/theme-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/web.config" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ive.theme" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ive/ive.theme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ive.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ive/js/ive.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ive.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ive/css/ive.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="lemonde.theme" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/lemonde/lemonde.theme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ive.info.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ive/ive.info.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ive.libraries.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/ive/ive.libraries.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="93" selection-start-line="93" selection-end-line="94" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/ive/ive.info.yml" />
+        <option value="$PROJECT_DIR$/themes/ive/ive.libraries.yml" />
+        <option value="$PROJECT_DIR$/themes/ive/js/ive.js" />
+        <option value="$PROJECT_DIR$/themes/lemonde/lemonde.theme" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/core/assets/vendor/jquery.ui/package.json" />
+      <path value="$PROJECT_DIR$/core/package.json" />
+      <path value="$PROJECT_DIR$/modules/contrib/flag/package.json" />
+      <path value="$PROJECT_DIR$/modules/contrib/paragraphs/css/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/radix/kits/default/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/radix/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/zurb_foundation/STARTER/package.json" />
+      <path value="$PROJECT_DIR$/themes/contrib/zurb_foundation/package.json" />
+      <path value="$PROJECT_DIR$/themes/lemonde/STARTER/package.json" />
+      <path value="$PROJECT_DIR$/themes/lemonde/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/consolidation/robo" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-feed" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/jcalderonzumba/mink-phantomjs-driver" />
+      <path value="$PROJECT_DIR$/vendor/easyrdf/easyrdf" />
+      <path value="$PROJECT_DIR$/vendor/jcalderonzumba/gastonjs" />
+      <path value="$PROJECT_DIR$/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/chi-teck/drupal-code-generator" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-browserkit-driver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-selenium2-driver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink-goutte-driver" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/behat/mink" />
+      <path value="$PROJECT_DIR$/vendor/grasmash/yaml-expander" />
+      <path value="$PROJECT_DIR$/vendor/drush/drush" />
+      <path value="$PROJECT_DIR$/vendor/grasmash/expander" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsStream" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/path-util" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/wikimedia/composer-merge-plugin" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/drupal/coder" />
+      <path value="$PROJECT_DIR$/vendor/instaclick/php-webdriver" />
+      <path value="$PROJECT_DIR$/vendor/fabpot/goutte" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/league/container" />
+      <path value="$PROJECT_DIR$/vendor/league/csv" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/webflo/drupal-finder" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/output-formatters" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/log" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/config" />
+      <path value="$PROJECT_DIR$/vendor/consolidation/annotated-command" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/sameer-shelavale/php-countries-array" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="178" />
+    <option name="width" value="1400" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="lemonde" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db1eaf57-b558-47eb-9aff-3fc7d78b874b" name="Default" comment="" />
+      <created>1526985317511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526985317511</updated>
+      <workItem from="1526985518666" duration="2398000" />
+      <workItem from="1527068471692" duration="4332000" />
+      <workItem from="1527504476623" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7278000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="178" y="0" width="1400" height="860" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.17560321" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.3297587" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/js/ive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" selection-start-line="93" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/css/ive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/templates/node--article--teaser.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/ive.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" selection-start-line="93" selection-end-line="94" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/js/ive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ive/css/ive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/lemonde/lemonde.theme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
