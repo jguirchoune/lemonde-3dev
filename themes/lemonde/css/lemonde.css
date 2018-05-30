@@ -50,3 +50,63 @@ body.toolbar-fixed .sticky.is-stuck.is-at-top {
     margin-bottom: 0;
     width: 100%;
     text-align: left; }
+
+.block-lemonde-main-menu {
+  background-color: black; }
+
+.block-lemonde-main-menu a {
+  font-size: 0.75rem;
+  color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white; }
+
+.block-navigationlemonde {
+  background-color: white; }
+
+.block-navigationlemonde a {
+  font-size: 1rem;
+  color: black;
+  border-width: 0.5px;
+  border-style: solid;
+  border-color: grey;
+  text-transform: uppercase; }
+
+.block-lemonde-branding {
+  margin: 0 auto;
+  width: auto; }
+
+body {
+  color: white;
+  background-image: url(/themes/lemonde/images/default.png);
+  background-repeat: repeat-y; }
+
+/*.block-lemonde-content {
+  margin : 0 auto;
+  width : 800px;
+}
+
+.block-views-block-frontpage-block-1 {
+  margin : 0 auto;
+  width : 800px;
+}*/
+.block-views-block-frontpage-block-1 h2 {
+  height: 10rem; }
+
+.block-views-block-frontpage-block-1 .posted {
+  visibility: hidden; }
+
+.block-lemonde-content .posted {
+  visibility: hidden; }
+
+#navigation-generale ul {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap; }
+
+#navigation-generale * {
+  list-style: none; }
+
+#navigation-generale li {
+  padding: 0 5px; }
