@@ -1,0 +1,48 @@
+{% extends "block.html.twig" %}
+{#
+/**
+ * @file
+ * Theme override for a branding block.
+ *
+ * Each branding element variable (logo, name, slogan) is only available if
+ * enabled in the block configuration.
+ *
+ * Available variables:
+ * - site_logo: Logo for site as defined in Appearance or theme settings.
+ * - site_name: Name for site as defined in Site information settings.
+ * - site_slogan: Slogan for site as defined in Site information settings.
+ */
+#}
+{% block content %}
+   
+   <div class="menu_rechercher social">
+    <div class="menu_left">
+      <p><a href="/search"><i class="fa fa-search"></i> Rechercher</a></p>
+    </div>
+
+   <div class="menu_middle">
+     <i class="fa fa-facebook"></i>
+     <i class="fa fa-twitter"></i>
+     <i class="fa fa-google-plus"></i>
+     <i class="fa fa-instagram"></i>
+   </div>
+
+    <div class="menu_right">
+      <p><a href="https://www.lemonde.fr/emploi/"><i class="fa fa-suitcase"></i>emploi</a></p>
+      <p><a href="https://secure.lemonde.fr/sfuser/newsletters"><i class="fa fa-envelope"></i>Newsletter</a></p>
+      <p><a href="https://secure.lemonde.fr/sfuser/register"><i class="fa fa-user-plus"></i>S'inscrire</a></p>
+      <p><a href="https://secure.lemonde.fr/sfuser/connexion"><i class="fa fa-user"></i>Connexion</a></p>
+    </div>
+  </div>
+ 
+  
+  {% if site_logo %}
+    <a href="{{ path('<front>') }}" title="{{ 'Home'|t }}" rel="home">
+      <img src="{{ site_logo }}" alt="{{ 'Home'|t }}" />
+    </a>
+  {% endif %}
+  {% if site_name %}
+    <a href="{{ path('<front>') }}" title="{{ 'Home'|t }}" rel="home">{{ site_name }}</a>
+  {% endif %}
+  {{ site_slogan }}
+{% endblock %}

@@ -63,23 +63,26 @@
   <div {{ content_attributes }}>
     {% endif %}
 
-  <span class="fa fa-user"></span>
-
   <div class="menu_rechercher social">
-    <div class="menu_right">
-      <ul>
-      <li><a href="/search"> Rechercher</a></li>
-      </ul>
+    <div class="menu_left">
+      <li><a href="/search"><i class="fa fa-search"></i> Rechercher</a></li>
     </div>
 
-    <div class="menu-left">
-     <li>emploi</li>
-     <li>Newsletters</li>
-     <li>S'inscrire</li>
-     <li>Connexion</li>
+   <div class="menu_middle">
+     <i class="fa fa-facebook"></i>
+     <i class="fa fa-twitter"></i>
+     <i class="fa fa-google-plus"></i>
+     <i class="fa fa-instagram"></i>
+   </div>
+
+    <div class="menu-right">
+      <li><i class="fa fa-suitcase"></i>emploi</li>
+      <li><i class="fa fa-envelope"></i>Newsletter</li>
+      <li><i class="fa fa-user-plus"></i>S'inscrire</li>
+      <li><i class="fa fa-user"></i>Connexion</li>
     </div>
   </div>
-   
+  
     {% if content_attributes|length %}
   </div>
   {% endif %}
