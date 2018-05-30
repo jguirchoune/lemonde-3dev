@@ -297,7 +297,7 @@ $config_directories = array();
  *   $settings['hash_salt'] = file_get_contents('/home/example/salt.txt');
  * @endcode
  */
-$settings['hash_salt'] = 'k44vy7ihfVkfZExoA43sH0nd_8DQFMMvu7plbIopYqcxW54DKxapsIbmKDcXDV9K-VmMgTMJig';
+$settings['hash_salt'] = 'xW5ocWPtIxiNi0439JdKc8EP8aI4ISG-nQXyshesfn2gvzv6SJ6YbY_Mm6Df7mADZ1-tn2eH9Q';
 
 /**
  * Deployment identifier.
@@ -551,7 +551,7 @@ if ($settings['hash_salt']) {
  * See https://www.drupal.org/documentation/modules/file for more information
  * about securing private files.
  */
- $settings['file_private_path'] = 'sites/default/files/private';
+$settings['file_private_path'] = 'sites/default/files/private';
 
 /**
  * Session write interval:
@@ -783,12 +783,12 @@ $settings['entity_update_batch_size'] = 50;
  */
 #
 if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
-include $app_root . '/' . $site_path . '/settings.local.php';
+   include $app_root . '/' . $site_path . '/settings.local.php';
 }
 $databases['default']['default'] = array (
-  'database' => 'user7_2',
-  'username' => 'user7',
-  'password' => 'user7-0717',
+  'database' => 'user9',
+  'username' => 'user9',
+  'password' => 'user9-0917',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',
@@ -796,12 +796,13 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/default/files/config_ksySwkBKMyq2Pz0zw250HhjCENQlYOS07_XnKqTMwXC4kGndD_psFQKdzyZICSTT26_D-Yc-Uw/sync';
-
+$config_directories['sync'] = 'sites/default/files/config_3b1XwnluIB8Wyvu-Yu0DSl0jL6x2Uspm5GbvoK0eMKPS8OkXQmNbUfpH3fFrKPSidYGeR7CnfA/sync';
 
 // Change kint maxLevels setting:
-include_once(DRUPAL_ROOT . '/modules/contrib/devel/kint/kint/Kint.class.php');
+require_once DRUPAL_ROOT . '/modules/contrib/devel/kint/kint/Kint.class.php';
+Kint::$maxLevels = 8;
+/*include_once(DRUPAL_ROOT . '/modules/contrib/devel/kint/kint/Kint.class.php');
 if(class_exists('Kint')){
   // Set the maxlevels to prevent out-of-memory. Currently there doesn't seem to be a cleaner way to set this:
   Kint::$maxLevels = 4;
-}
+}*/
