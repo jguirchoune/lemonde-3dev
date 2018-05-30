@@ -8,7 +8,7 @@ screenshot: images/screenshot.jpg
 
 libraries:
   - lemonde/global
-
+  - lemonde/fontawesome
 # Uncompressed uncomment for development or as a reference
 # - lemonde/development
 

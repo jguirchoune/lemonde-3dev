@@ -32,3 +32,9 @@ alert_close:
     - core/drupal
     - core/jquery
     - core/jquery.once
+fontawesome:
+  version: VERSION
+  css:
+    base:
+      /vendor/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css: {}
+    
