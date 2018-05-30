@@ -1,0 +1,131 @@
+{#
+/**
+ * @file
+ * Default theme implementation to display a block.
+ *
+ * Available variables:
+ * - block.subject: Block title.
+ * - content: Block content.
+ * - block.module: Module that generated the block.
+ * - block.delta: An ID for the block, unique within each module.
+ * - block.region: The block region embedding the current block.
+ * - classes: String of classes that can be used to style contextually through
+ *   CSS. It can be manipulated through the variable classes_array from
+ *   preprocess functions. The default values can be one or more of the following:
+ *   - block: The current template type, i.e., "theming hook".
+ *   - block-[module]: The module generating the block. For example, the user module
+ *     is responsible for handling the default user navigation block. In that case
+ *     the class would be "block-user".
+ * - title_prefix (array): An array containing additional output populated by
+ *   modules, intended to be displayed in front of the main title tag that
+ *   appears in the template.
+ * - title_suffix (array): An array containing additional output populated by
+ *   modules, intended to be displayed after the main title tag that appears in
+ *   the template.
+ *
+ * Helper variables:
+ * - classes_array: Array of html class attribute values. It is flattened
+ *   into a string within the variable classes.
+ * - block_zebra: Outputs 'odd' and 'even' dependent on each block region.
+ * - zebra: Same output as block_zebra but independent of any block region.
+ * - block_id: Counter dependent on each block region.
+ * - id: Same output as block_id but independent of any block region.
+ * - is_front: Flags true when presented in the front page.
+ * - logged_in: Flags true when the current user is a logged-in member.
+ * - is_admin: Flags true when the current user is an administrator.
+ * - block_html_id: A valid HTML ID and guaranteed unique.
+ * - content_attributes: Raw HTML attributes for block content.
+ * - title_attributes: Raw HTML attributes for the block title tag.
+ *
+ * @see template_preprocess()
+ * @see template_preprocess_block()
+ * @see template_process()
+ */
+#}
+{% if block.delta != 'main' %}
+{%
+  set classes = [
+    'block',
+    'block-' ~ configuration.provider|clean_class,
+    'block-' ~ plugin_id|clean_class,
+  ]
+%}
+<section{{ attributes.addClass(classes) }}>
+  {% endif %}
+  <div id="surheader">
+    <div class="contenu">
+      <div class="groupe">
+        <a href="/" title="Le Monde" target="_self">Le Monde</a>
+        <a href="http://www.telerama.fr/" title="T&eacute;l&eacute;rama" target="_blank">T&eacute;l&eacute;rama</a>
+        <a href="http://www.monde-diplomatique.fr/" title="Le Monde diplomatique" target="_blank">Le Monde diplomatique</a>
+        <a href="http://www.huffingtonpost.fr/" title="HuffPost" target="_blank">HuffPost</a>
+        <a href="http://www.courrierinternational.com/" title="Courrier international" target="_blank">Courrier international</a>
+        <a href="http://www.lavie.fr/" title="La Vie" target="_blank">La Vie</a>
+        <a href="https://www.nouvelobs.com/" title="L'Obs" target="_blank">L'Obs</a>
+      </div>
+      <div class="partners">
+          <a class="partners__link" target="_blank" href="https://codepromo.lemonde.fr/" title="Codes promo" onclick="return xt_click(this, 'C', '', 'Cuponation_sur_header', 'N')">Codes promo</a>
+      </div>
+      <div class="services">
+          <span>Services Le Monde ▾</span>
+          <div>
+              <div>
+                  <strong>Partenaires Le Monde</strong>
+                  <a href="http://voiture-occasion.lemonde.fr" title="Annonces auto" target="_self">Annonces auto</a>
+                  <a href="https://paroles2chansons.lemonde.fr/" title="Paroles de chansons" target="_self">Paroles de chansons</a>
+                  <a href="http://offres.offres-emploi.monster.fr/?ch=LEMONDE" title="Annonces emploi" target="_blank">Annonces emploi</a>
+                  <a href="http://immobilier.lemonde.fr/" title="Annonces immo" target="_self">Annonces immo</a>
+                  <a href="https://codepromo.lemonde.fr/" title="Codes promo" target="_blank">Codes promo</a>
+                  <a href="http://dicocitations.lemonde.fr/" title="Citations" target="_self">Citations</a>
+                  <a href="https://anglais.lemonde.fr/" title="Cours d’anglais" target="_self">Cours d’anglais</a>
+                  <a href="https://formation-professionnelle.lemonde.fr/" title="Formation professionnelle" target="_self">Formation professionnelle</a>
+                  <a href="https://jardinage.lemonde.fr/" title="Jardinage" target="_self">Jardinage</a>
+                  <a href="https://progresser-orthographe.lemonde.fr/" title="Orthographe" target="_self">Orthographe</a>
+                  <a href="http://prix-immobilier.lemonde.fr/prix-immobilier/" title="Prix de l’immobilier" target="_self">Prix de l’immobilier</a>
+                  <a href="http://encheres.lemonde.fr" title="Ventes aux enchères" target="_self">Ventes aux enchères</a>
+              </div>
+              <div>
+                  <strong>Le Monde Événements</strong>
+                  <a href="https://evenements-abonnes.lemonde.fr/">Événements abonnés</a>
+                  <a href="/festival/">Le Monde Festival</a>
+                  <strong>Boutique Le Monde</strong>
+                  <a href="http://boutique.lemonde.fr/#xtor=AD-46" title="Accueil" target="_blank">Accueil</a>
+                  <a href="http://boutique.lemonde.fr/hors-series.html#xtor=AD-101" title="Hors-Séries" target="_blank">Hors-Séries</a>
+                  <a href="http://boutique.lemonde.fr/livres.html#xtor=AD-100" title="Livres" target="_blank">Livres</a>
+                  <a href="http://boutique.lemonde.fr/dvd-1.html#xtor=AD-98" title="DVD" target="_blank">DVD</a>
+                  <a href="http://boutique.lemonde.fr/cd.html#xtor=AD-99" title="CD" target="_blank">CD</a>
+                  <a href="http://boutique.lemonde.fr/unes-du-monde.html#xtor=AD-149" title="Unes du Monde" target="_blank">Unes du Monde</a>
+                  <a href="http://boutique.lemonde.fr/loisirs-et-papeterie.html#xtor=AD-103" title="Loisirs &amp; papeterie" target="_blank">Loisirs &amp; papeterie</a>
+                  <a href="http://boutique.lemonde.fr/promos.html#xtor=AD-345" title="Promotions" target="_blank">Promotions</a>
+              </div>
+          </div>
+      </div>
+      <div class="abonnement">
+<a title="Abonnez-vous au Monde à partir de 1 €" href="https://abo.lemonde.fr#xtor=CS1-263[BOUTONS_LMFR]-[HEADER]-5-[Home]" onclick="return xt_click(this, 'C', '', 'Abo::Header', 'N')" rel="nofollow">
+                <span>S’abonner au Monde à partir de 1 €</span>
+            </a>        </div>
+    </div>
+  </div>
+
+
+  {{ title_prefix }}
+  {% if label %}
+    <h2 {{ title_attributes }}>{{ label }}</h2>
+  {% endif %}
+  {{ title_suffix }}
+
+  {% if content_attributes|length %}
+  <div {{ content_attributes }}>
+    {% endif %}
+
+    {% block content %}
+      {{ content }}
+    {% endblock %}
+
+    {% if content_attributes|length %}
+  </div>
+  {% endif %}
+
+  {% if block.delta != 'main' %}
+</section>
+{% endif %}
