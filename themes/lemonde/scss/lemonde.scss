@@ -307,12 +307,12 @@ li.m-mag .sousmenutest {
 	top: 25px;
 	transition: opacity 200ms ease-in-out;
 	flex: none;
+	background: #000000!important;
+	width: 150px;
 }
 
 li.m-mag:hover .sousmenutest {
 	opacity: 1;
-	background: #000000!important;
-	width: 150px;
 }
 
 li.m-mag:hover .sousmenutest ul li {
