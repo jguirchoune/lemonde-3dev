@@ -181,7 +181,8 @@ background-repeat:repeat-y;
    border-top:1px solid #d2d6db;
 }
 
-#navigation-generale li a {
+#navigation-generale li a,
+#navigation-generale li.m-mag {
    padding: 0 5px;
    font-size:12px;
    text-transform: uppercase;
@@ -193,7 +194,8 @@ background-repeat:repeat-y;
 	cursor: pointer;
 }
 
-#navigation-generale li:hover a {
+#navigation-generale li:hover a,
+#navigation-generale li.m-mag:hover {
 	color:#FFFFFF;
 }
 
@@ -289,9 +291,13 @@ background-repeat:repeat-y;
 	background-color:#ff6e17 ;
 }
 
+#navigation-generale li.m-mag {
+	position: relative;
+	color: #000;
+}
+
 #navigation-generale li.m-mag:hover {
 	background-color:#020818 ;
-	position: relative;
 }
 
 li.m-mag .sousmenutest {
