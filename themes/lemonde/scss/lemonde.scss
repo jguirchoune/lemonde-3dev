@@ -159,6 +159,10 @@ background-repeat:repeat-y;
 
 // Menu LeMonde 
 
+#navigation-generale {
+  margin-top:20px;
+}
+
 #navigation-generale ul {
   display: -ms-flexbox;
   display: flex;
@@ -182,4 +186,104 @@ background-repeat:repeat-y;
    text-transform: uppercase;
    font-weight: bold;
    color: #000b15;
+}
+
+#navigation-generale li:hover a {
+color:#FFFFFF;
+}
+
+#navigation-generale li.international {
+border-top: 3px solid #0386c3;
+}
+
+#navigation-generale li.politique {
+border-top: 3px solid #1f0d67;
+}
+
+#navigation-generale li.societe {
+border-top: 3px solid #d50303;
+}
+
+#navigation-generale li.economie {
+border-top: 3px solid #fe2f2f;
+}
+
+#navigation-generale li.culture {
+border-top: 3px solid #f20559;
+}
+
+#navigation-generale li.idees {
+border-top: 3px solid #464f57;
+}
+
+#navigation-generale li.planete {
+border-top: 3px solid #30932e;
+}
+
+#navigation-generale li.sport {
+border-top: 3px solid #6faa12;
+}
+
+#navigation-generale li.sciences {
+border-top: 3px solid #0cb4ae;
+}
+
+#navigation-generale li.pixels {
+border-top: 3px solid #06b586;
+}
+
+#navigation-generale li.campus {
+border-top: 3px solid #ff6e17;
+}
+
+#navigation-generale li.m-mag {
+border-top: 3px solid #020818;
+}
+
+#navigation-generale li.international:hover {
+background-color:#020818 ;
+}
+
+#navigation-generale li.politique:hover {
+background-color:#020818 ;
+}
+
+#navigation-generale li.societe:hover{
+background-color:#020818 ;
+}
+
+#navigation-generale li.economie:hover {
+background-color:#020818 ;
+}
+
+#navigation-generale li.culture:hover {
+background-color:#020818 ;
+}
+
+#navigation-generale li.idees:hover {
+background-color: #020818;
+}
+
+#navigation-generale li.planete:hover {
+background-color: #020818;
+}
+
+#navigation-generale li.sport:hover {
+background-color: #020818;
+}
+
+#navigation-generale li.sciences:hover {
+background-color: #020818;
+}
+
+#navigation-generale li.pixels:hover {
+background-color:#020818 ;
+}
+
+#navigation-generale li.campus:hover {
+background-color:#020818 ;
+}
+
+#navigation-generale li.m-mag:hover {
+background-color:#020818 ;
 }
