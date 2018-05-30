@@ -102,7 +102,7 @@ body {
 #navigation-generale {
   margin-top: 20px; }
 
-#navigation-generale ul {
+#navigation-generale > ul {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-flow: row nowrap;
@@ -200,4 +200,23 @@ body {
   background-color: #ff6e17; }
 
 #navigation-generale li.m-mag:hover {
-  background-color: #020818; }
+  background-color: #020818;
+  position: relative; }
+
+li.m-mag .sousmenutest {
+  opacity: 0;
+  position: absolute;
+  left: 5px;
+  top: 25px;
+  transition: opacity 200ms ease-in-out;
+  -ms-flex: none;
+      flex: none; }
+
+li.m-mag:hover .sousmenutest {
+  opacity: 1;
+  background: #000000 !important;
+  width: 150px; }
+
+li.m-mag:hover .sousmenutest ul li {
+  color: #FFFFFF;
+  background: #000000 !important; }
