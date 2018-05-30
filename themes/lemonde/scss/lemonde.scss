@@ -309,10 +309,12 @@ li.m-mag .sousmenutest {
 	flex: none;
 	background: #000000!important;
 	width: 150px;
+	z-index: 0;
 }
 
-li.m-mag:hover .sousmenutest {
+li.m-mag:focus .sousmenutest {
 	opacity: 1;
+	z-index: 1;
 }
 
 li.m-mag:hover .sousmenutest ul li {
